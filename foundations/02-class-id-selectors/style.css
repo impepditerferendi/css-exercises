@@ -1,0 +1,17 @@
+.p-container {
+    background-color: pink;
+    color: black;
+    font-size: 20px;
+}
+
+#div-container1{
+    font-size: 50px;
+    color:blue;
+}
+
+#div-container2{
+    background-color: lightgreen;
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+}
