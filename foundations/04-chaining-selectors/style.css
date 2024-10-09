@@ -3,16 +3,8 @@
     height: auto;
 }
 
-.original.proportioned{
-
-}
-
 .avatar.distorted{
     position: relative;
     width: 200px;
     height: 500px;
-}
-
-.original.distorted{
-    
 }
