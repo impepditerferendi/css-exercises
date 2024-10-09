@@ -39,3 +39,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.info{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 52px;
+  margin: 0;
+  flex: 1 1 200;
+  text-align: center;
+  text-wrap: wrap;
+}
+
+
+.info .one{
+  
+}
